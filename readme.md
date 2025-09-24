@@ -29,23 +29,3 @@ Open your browser and go to http://127.0.0.1:8000/
 
 ```
 
-## Project Structure
-
-
-hello_django/
-├── api/
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── migrations/
-│   ├── models.py
-│   ├── tests.py
-│   └── views.py
-├── helloworld/
-│   ├── __init__.py
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-├── manage.py
-└── README.md
